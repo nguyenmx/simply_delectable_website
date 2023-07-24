@@ -1,6 +1,6 @@
 # Simply Delectable Cafe Website
 
-This project was based on an assignment I had for my Graphic Design class where created a landing page and menu page using software such as Camva, Adobe Photoshop, and InDesign. I decided to recreate the website and have it be a functional website using JavaScript, HTML, and the React framework. I was also working on a StoryBuilder app for kids simultaneously so there are some pages and features that exist in this project. I may remove these and move them to another repository once the StoryBuilder app is finished.
+This project was based on an assignment I had for my Graphic Design class where created a landing and menu pages using software such as Camva, Adobe Photoshop, and InDesign. I decided to recreate the website and have it be a functional website using JavaScript, HTML, and the React framework. I was also working on a StoryBuilder app for kids simultaneously so there are some pages and features that exist in this project. I may remove these and move them to another repository once the StoryBuilder app is finished.
 
 ## Available Scripts
 
